@@ -33,6 +33,9 @@ h3, .h3 {
   margin-top:10px;
   margin-bottom: 25px;
 }
+h4, .h4 {
+  margin-top:20px;
+}
 p, blockquote {
   font-family: "Avenir", Arial, sans-serif;
 }

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Individual Coaching
-description: Description
 permalink: /individual-coaching/
 cost: "1,650"
 text1: "I meet with clients in my office in the Mission District of San Francisco." 

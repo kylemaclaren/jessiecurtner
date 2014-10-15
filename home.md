@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-description: Description
 permalink: /
 quote1: "Before coming to Jessie, I felt anxious and unsure about what I wanted in my life. I've been seeing Jessie for almost a year now, and I have much more clarity and understanding of who I am. This has led to greater confidence and success in my professional and personal life. I cannot recommend her highly enough as a coach."
 author1: "AG, San Francisco CA"

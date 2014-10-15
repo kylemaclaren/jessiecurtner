@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Corporate Coaching
-description: Description
 permalink: /corporate-coaching/
 text1: "Please contact me to design a program that fits your comapny's unique needs. Rates and duration will vary depending on the program we design."
 ---
@@ -20,4 +19,4 @@ Mindfulness is defined as the intentional, accepting and non-judgmental focus of
 
 #### Leadership Groups
 
-A leader does not become a leader in a silo. Leadership is about effectively relating to others. In my leadership groups I'll create a safe environment for a group of employees (4-10) to explore their unique gifts, their personal voice, their innate power, as well as what is getting in their way from becoming the person they most deire to be. Being "seen" in a group setting is a powerful experience, that prepares individuals for the art of leading. After 6 months of weekly or bi-weekly meetings employees will be able to more easily connect with others and with themselves. 
+A leader does not become a leader in a silo. Leadership is about effectively relating to others. In my leadership groups I'll create a safe environment for a group of employees (4-10) to explore their unique gifts, their personal voice, their innate power, as well as what is getting in their way from becoming the person they most desire to be. Being "seen" in a group setting is a powerful experience, one that prepares individuals for the art of leading. After 6 months of weekly or bi-weekly meetings, employees will be able to more easily connect with others and with themselves. 
