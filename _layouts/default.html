@@ -1,0 +1,58 @@
+{% include header.html %}
+{% include navigation.html %}
+
+    <!-- Content -->
+    <div class="container">
+      {% if page.title == 'Home' %}
+      <div class="col-md-7">
+        {{ content }}
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-4 yellow">
+        <h2>Client Testimonials</h2>
+        <p class="session_details">"{{ page.quote1 }}"</p>
+        <p class="session_type">-{{ page.author1 }}</p>
+        <p class="session_details">"{{ page.quote2 }}"</p>
+        <p class="session_type">-{{ page.author2 }}</p>
+      </div>
+      {% elsif page.title == 'Contact' %}
+      <div class="col-md-7">
+        {{ content }}
+        <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3154.607047478441!2d-122.40460300000001!3d37.752362!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7e4c7c81fa3d%3A0x555801ec9c29a448!2s1348+San+Bruno+Ave%2C+San+Francisco%2C+CA+94110!5e0!3m2!1sen!2sus!4v1412109803269" width="100%" height="300" frameborder="0" style="border:0"></iframe>
+      </div>
+      <div class="col-md-1"></div>
+      <div class="col-md-4 yellow">
+        <h2>Contact Information</h2>
+        <p><br>{{ site.owner.name }}<br>{{ site.owner.address }}<br>{{ site.owner.city }}<br><br></p>
+        <p><span class="contact_type">c: </span>{{ site.owner.phone }}</p>
+        <p><span class="contact_type">e: </span><a href="mailto:{{ site.owner.email }}">{{ site.owner.email }}</a></p> 
+        <p><span class="contact_type">s: </span><a href="skype:{{ site.owner.skype }}">{{ site.owner.skype }}</a></p>
+      </div>
+      {% elsif page.title == 'About' %}
+      <div class="col-md-7">{{ content }}</div>
+      <div class="col-md-1"></div>
+      <div class="col-md-4 image">
+        <img class="border" src="{{ site.baseurl }}/img/profile.png" width="80%" />
+      </div>
+      {% elsif page.title == 'Individual Coaching' %}
+      <div class="col-md-7">{{ content }}</div>
+      <div class="col-md-1"></div>
+      <div class="col-md-4 yellow">
+        <h2>Program Information</h2>
+        <p class="session_number">12</p>
+        <p class="session_type">one-hour bi-weekly 1:1 sessions</p>
+        <p class="session_number">${{ page.cost }}</p>
+        <p class="session_details">{{ page.text1 }}</p>
+        <p class="session_details">{{ page.text2 }}</p>
+      </div>
+      {% elsif page.title == 'Corporate Coaching' %}
+      <div class="col-md-7">{{ content }}</div>
+      <div class="col-md-1"></div>
+      <div class="col-md-4 yellow">
+        <h2>Program Information</h2>
+        <p class="session_details">{{ page.text1 }}</p>
+      </div>
+      {% endif %}
+    </div><!-- /.container -->
+
+{% include footer.html %}

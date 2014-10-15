@@ -1,0 +1,151 @@
+/* Fonts */
+@font-face {
+  font-family: CarrosserieLight;
+  src: url(../fonts/Carrosserie-Light.otf);
+}
+@font-face {
+  font-family: CarrosserieBold;
+  src: url(../fonts/Carrosserie-Bold.otf);
+}
+
+/* CSS */
+html { 
+  background: url(../img/bg50.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+  background-color: transparent;
+  color: #000;
+}
+h1, .h1, h2, .h2, h4, .h4 {
+  font-family: CarrosserieBold, Arial, sans-serif;
+}
+h2, .h2 {
+  font-size:24px;
+}
+h3, .h3 {
+  font-style: italic;
+  font-family: "Avenir", Arial, sans-serif;
+  font-size: 20px;
+  margin-top:10px;
+  margin-bottom: 25px;
+}
+p, blockquote {
+  font-family: "Avenir", Arial, sans-serif;
+}
+blockquote {
+  font-style: italic;
+  font-size: 14px;
+}
+.border {
+  border: 15px solid #f8ee50;
+}
+.yellow {
+  background-color: #f8ee50;
+}
+.bold {
+  font-weight: bold;
+}
+.logo {
+  margin:25px 0;
+  text-align: center;
+}
+.col-md-1, .col-md-3, .col-md-4, .col-md-7, .col-md-8, .col-md-12 {
+  margin-bottom:25px;
+}
+.col-md-3, .col-md-4 {
+  padding: 25px;
+  color: #000;
+}
+.col-md-3.image, .col-md-4.image {
+  text-align: center;
+}
+.col-md-3 h1, .col-md-3 .h1, .col-md-3 h2, .col-md-3 .h2, .col-md-4 h1, .col-md-4 .h1, .col-md-4 h2, .col-md-4 .h2 {
+  margin-top: 0px;
+}
+.session_number {
+  font-size: 24px;
+}
+.contact_type {
+  font-family: CarrosserieBold, Arial, sans-serif;
+}
+.session_type {
+  font-family: CarrosserieLight, Arial, sans-serif;
+}
+.session_details {
+  font-size: 12px;
+}
+.navbar {
+  border-radius: 0px;
+  margin-bottom: 25px;
+}
+.navbar-default {
+  background-color: transparent;
+  border: none;
+}
+.navbar-default .navbar-collapse {
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #000;
+  font-family: CarrosserieLight, Arial, sans-serif;
+  font-size: 20px;
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #000;
+}
+.navbar-default .navbar-toggle {
+  border:none;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #000;
+  background-color: transparent;
+  font-family: CarrosserieBold, Arial,sans-serif;
+}
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+  color: #000;
+  background-color: #f8ee50;
+}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #f8ee50;
+}
+.navbar-nav>li>a {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .container>.navbar-header {
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+  }
+  .navbar-default .navbar-collapse {
+    border-top: none;
+    border-bottom: 1px solid #000;
+  }
+}
+@media (min-width: 768px) {
+  .container {
+    width: 800px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+  .navbar-nav {
+    margin-left: 80px;
+  }
+  .col-md-7, .col-md-8 {
+    margin-bottom:100px;
+  }
+  .col-md-3.image, .col-md-4.image {
+    margin-top: 25px;
+    text-align: right;
+  }
+}
