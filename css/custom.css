@@ -1,3 +1,7 @@
+/************************* 
+blue - #339999
+*************************/
+
 /* Fonts */
 @font-face {
   font-family: CarrosserieLight;
@@ -10,7 +14,6 @@
 
 /* CSS */
 body {
-  background-color: transparent;
   color: #000;
 }
 h1, .h1, h2, .h2, h4, .h4 {
@@ -35,12 +38,7 @@ p, blockquote {
 blockquote {
   font-style: italic;
   font-size: 14px;
-}
-.border {
-  border: 15px solid #f8ee50;
-}
-.yellow {
-  background-color: #f8ee50;
+  border-color: #339999;
 }
 .bold {
   font-weight: bold;
@@ -49,30 +47,15 @@ blockquote {
   margin:25px 0;
   text-align: center;
 }
-.col-md-1, .col-md-3, .col-md-4, .col-md-7, .col-md-8, .col-md-12 {
+.col-md-12 {
   margin-bottom:25px;
 }
-.col-md-3, .col-md-4 {
-  padding: 25px;
-  color: #000;
-}
-.col-md-3.image, .col-md-4.image {
-  text-align: center;
-}
-.col-md-3 h1, .col-md-3 .h1, .col-md-3 h2, .col-md-3 .h2, .col-md-4 h1, .col-md-4 .h1, .col-md-4 h2, .col-md-4 .h2 {
-  margin-top: 0px;
-}
-.session_number {
-  font-size: 24px;
-}
-.contact_type {
-  font-family: CarrosserieBold, Arial, sans-serif;
-}
-.session_type {
-  font-family: CarrosserieLight, Arial, sans-serif;
-}
-.session_details {
-  font-size: 12px;
+.profile-pic {
+  float: right;
+  margin-left: 50px;
+  padding-left:10px;
+  margin-top: 65px;
+  border-left: 5px solid #339999;
 }
 .navbar {
   border-radius: 0px;
@@ -104,10 +87,10 @@ blockquote {
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
   color: #000;
-  background-color: #f8ee50;
+  background-color: #eeeeee;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-  background-color: #f8ee50;
+  background-color: #eeeeee;
 }
 .navbar-nav>li>a {
   padding-top: 15px;
@@ -136,12 +119,5 @@ blockquote {
   }
   .navbar-nav {
     margin-left: 80px;
-  }
-  .col-md-7, .col-md-8 {
-    margin-bottom:100px;
-  }
-  .col-md-3.image, .col-md-4.image {
-    margin-top: 25px;
-    text-align: right;
   }
 }
