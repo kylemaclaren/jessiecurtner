@@ -1,12 +1,10 @@
 ---
-layout: default
-title: About
+layout: page
+title: About Jessie
 permalink: /about/
 ---
 
-<img class="profile-pic" src="/img/profile.png" width="175" />
-
-# About Jessie
+<img class="profile-pic" src="/img/profile.png" />
 
 ### It's the little moments that give life meaning. 
 

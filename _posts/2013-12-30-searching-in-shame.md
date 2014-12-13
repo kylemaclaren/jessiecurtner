@@ -1,0 +1,22 @@
+---
+layout: post
+comments: true
+title: Searching in Shame
+image: http://media.tumblr.com/0d5f441b4794ec64ecaf3d8ba701e391/tumblr_inline_mymvd7UElp1qc5937.jpg
+---
+
+For weeks now I’ve been considering writing this post, but I keep hoping another topic will inspire me more so that I can leave this one behind. The reason for my procrastination is because this is a subject no one likes to talk about. It’s a word that people don’t even like to mention, because its very utterance brings up the emotion that it defines. The concept I am talking about is shame. 
+
+I felt compelled to write about this taboo topic because earlier this month I found myself going down a shame-spiral. I will not go into the details of this experience, suffice to say that for several weeks I felt like everything I did was wrong. Even worse, I felt like something was fundamentally wrong with me. This feeling of inadequacy was so intense that I felt myself closing off, not only from the outside world, but also from myself. I didn’t want to meditate, I didn’t want to journal, I didn’t want to open up to my loved ones. Why? Because I couldn’t face my own unworthiness. I believe this is the affect that shame has on everyone. It closes down our hearts to our own experiences. It’s impossible to be open to the world if we don’t feel worthy enough to be a part of it.
+
+As with all pain, this one wanted to be heard and would simply not abate until I gave in. And so, reluctantly, I began to listen. Strong emotions can yield clues to real truths about our inner being, and shame is a very powerful feeling that we are often unable to look beyond. I became curious about what I would find if I was brave enough to peek under the rug, so I began to excavate. 
+
+In breaking down this complicated emotion I have found that there are two types of shame: the first is the type we own and the second is the type we absorb. The type we own happens when we realize we have acted in a way that is beneath the person we actually are. The most obvious example of this happens in primary school, when we do something at the expense of someone else just to fit in, but more subtle versions of this happen just as often in the adult world. The second type of shame is the type that I experienced earlier this month. This type happens when we are embarrassed of who we are, usually because we absorbed someone else’s disapproval of us and let it affect the way we saw ourselves. 
+
+Identifying what type of shame you are dealing with is the first step to moving past it. The second step is finding the truth in the situation. If you are dealing with internal shame, the truth is that you are a better person than your actions implied. You are kinder, more empathetic, and more conscientious than you are able to act 100% of the time. If you are dealing with external shame, the truth is that oftentimes what was hidden behind the embarrassment is what makes you unique. Feeling different doesn’t always feel great, but embracing our own individuality and innate gifts are what allows us to follow our hearts. You would be hard-pressed to read a biography of a influential person that did not include his/her struggle through shaming experiences. Beyond the restraints of other people’s approval is a vast ocean of possibilities for different ways of seeing and being. 
+
+The last step in moving forward from shame is recognizing that as human beings we have all experienced it at one time or another. I have found this meditation to be extremely helpful: I recognize that the people in my life who have made me feel ashamed, may very well have been grappling with their own insecurities, and I try to forgive them and myself. Acknowledging that at any moment someone may be suffering from feelings of inadequacy allows me to act kinder. It gives me a reason to treat someone as worthy and unique, even when they’re not acting like it.
+
+Difficult emotions gift us an opportunity to see beyond uncomfortableness. Perhaps the pain we feel from shame comes not from our hearts shutting down but from our inner-light crying out! It asks us to be brave enough to see past the embarrassment to the person we really are: someone who is fully worthy and in need of love and acceptance. By shining a light on my own shame I have found that I am better able to see the truth of my own beautiful uniqueness and my shared humanity. 
+
+<em>"Look at how a single candle can both defy and define the darkness." -Anne Frank</em>

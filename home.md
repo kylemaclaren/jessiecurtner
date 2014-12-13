@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Home
 permalink: /
 ---
-
-# Home
 
 ### Getting stuck forces us to find creative solutions for getting unstuck.
 

@@ -1,0 +1,27 @@
+---
+layout: post
+comments: true
+title: A Great Story
+image: http://media.tumblr.com/df8ee64df6f370bc46c054b5012c9586/tumblr_inline_n5mybjM14u1qc5937.jpg
+---
+
+When we think of great stories, fictitious or not, they all have two things in common. The first is that they are unique; they’re just like snowflakes in that no two are alike. The reader never doubts for a minute that the characters are real because their traits, beliefs, environment and relationships create a whole person. The second thing great stories have in common is that they speak universal truths. If the characters and experiences are the snowflakes, what makes the work great is what is brought together by these snowflakes. “The snow,” so to speak, comes from the creator. It’s what happens when all the pieces collide to make something greater then their parts. When this happens, the reader connects to the piece because they sense something in it that is true about life. 
+
+I started pondering stories recently when I found myself caught up in an old one of my own. I’m a daydreamer. A year hasn’t gone by in my life when I didn’t have some drama playing out in my mind (usually involving real people but often devoid of real interaction). My particular story has come up for me time and time again. The plot line follows, almost exactly, that of a trashy Daniel Steele romance novel. 
+
+But recently, I noticed something that I hadn’t wanted to see before: my story is BORING! And despite the amount of time I have spent crafting it, it doesn’t have either of the two parts that make up a great story. It certainly isn’t unique: Daniel Steele alone has written over 100 novels. And the creator of the story (me) hasn’t taken the time to explore any deeper meanings and lessons that might be present. Instead of trying to understand my story, I would just start it over in my mind with the same stale narrative; all of the time wondering why it left me feeling so empty. 
+
+We all have tales like this. Some are played out internally, like mine, and some are are played out externally . It’s hard to identify exactly when we’re in one because they make up how we understand the world. To some extent, we’re always in a story, because our perceptions are rarely objective. These perceptions (or stories) allow us to access the world and create meaning out of it. The most meaningful are those into which we dive deep. When we get to know the characters (ourselves) and the situation intimately, we are see it through to a fruitful ending. These are the stories that help us to grow, learn and heal.
+
+Other stories keep us stuck in old patterns by repeating over and over again in our minds. Without any real awareness or understanding of them, these perceptions begin to block us off from opportunities for real change and become self-fulfilling prophecies. For example, if your perception is that you’re constantly overwhelmed then that becomes your reality. But if you’re willing to spend some time deconstructing this belief, you might find something closer to the truth. Perhaps you’re scared to take things off your plate because it would make you feel useless or without value, or maybe you’re avoiding something else going on in your life. The point is that by scratching beneath the surface we find lessons that enable us to heal and move forward.
+Three signs that you are caught up in a unhealthy story are:
+
+1. Things are happening to you which are completely out of your control.
+2. Your friends are either bored or frustrated by your explanation of what is happening to you.
+3. You know that you could resolve this problem if only you had “X,” which is impossible to obtain because of “Y.” 
+
+In noticing that my story was unhealthy (not to mention a little pre-teen in its appeal and origin), I decided that it was time for a re-write. I found the best way to do this was to get as honest with myself as possible. I got out a piece of paper, started writing until I found a voice that felt honest and wrote a new story with more depth and honesty. When I did this exercise I found that my narrative changed from a simple little victim story, to one about a women searching to fill a void. The unique details of that woman (me) and that void (my needs) are what make up some of the most profound opportunities for learning in my life. The new tale brought  to the surface complex emotions and memories, not all of which were pleasant, but I sure wasn’t bored.
+
+Digging deep into our stories allows us to re-engage in life in a more honest and meaningful way. It’s just like reading a profoundly moving novel: it opens you up to experience something you were never able to put into words before. When this happens you’re won’t quite be the same because you’ve learned something that has changed the way you view life. We will never understand the whole truth of any situation, but by diving into our stale narratives we can begin to see some real truths about ourselves. I’m not sure yet how I want my romance story to end or how it will weave into the bigger picture of my life, but what I do know is that I’m done simplifying the complexity and beauty of my life into worn-out tales. The next time I find myself in a dull narrative I plan to keep digging until I find what makes it great.
+
+What stories are waiting for you to turn into masterpieces?

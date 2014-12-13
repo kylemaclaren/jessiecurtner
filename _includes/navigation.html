@@ -1,6 +1,6 @@
     <!-- Logo -->
     <div class="logo">
-      <img src="{{ site.baseurl }}/img/logo.png" />
+      <img src="{{ site.baseurl }}/img/logo.png" width="150" height="150" />
     </div>
 
     <!-- Navigation -->
@@ -8,7 +8,7 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">Toggle Navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -20,7 +20,6 @@
             {% for link in site.navigation %}
             <li{% if url == link.url %} class="active">{% else %}>{% endif %}<a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>  
             {% endfor %}
-            <li><a href="http://www.theinbetweenspace.com">Blog</a></li>
           </ul>
         </div><!--/.navbar-collapse -->
       </div>

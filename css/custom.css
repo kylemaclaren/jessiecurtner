@@ -1,7 +1,3 @@
-/************************* 
-blue - #339999
-*************************/
-
 /* Fonts */
 @font-face {
   font-family: CarrosserieLight;
@@ -32,7 +28,7 @@ h3, .h3 {
 h4, .h4 {
   margin-top:20px;
 }
-p, blockquote {
+p, blockquote, ul, ol {
   font-family: "Avenir", Arial, sans-serif;
 }
 blockquote {
@@ -48,14 +44,36 @@ blockquote {
   text-align: center;
 }
 .col-md-12 {
-  margin-bottom:25px;
+  margin-bottom:100px;
 }
 .profile-pic {
-  float: right;
-  margin-left: 50px;
+  float: left;
+  margin-right: 25px;
   padding-left:10px;
-  margin-top: 65px;
   border-left: 5px solid #339999;
+  width: 175px;
+}
+.blog-article {
+  min-height: 200px;
+}
+.blog-title, .blog-title:hover {
+  color:#000;
+  text-decoration: none;
+}
+.blog-pic {
+  margin-bottom: 25px;
+  width: 100%;
+}
+.blog-thumb {
+  float: left;
+  margin-right: 25px;
+  padding-left: 10px;
+  border-left: 5px solid #339999;
+  width: 250px;
+  height: 150px;
+}
+#disqus_thread {
+  margin-top:50px;
 }
 .navbar {
   border-radius: 0px;

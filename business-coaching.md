@@ -1,14 +1,12 @@
 ---
-layout: default
-title: Corporate Coaching
-permalink: /corporate-coaching/
+layout: page
+title: Business Coaching
+permalink: /business-coaching/
 ---
-
-# Corporate Coaching
 
 ### The time we spend at work is just as valuable as the time we spend outside of work.
 
-#### 1:1 Corporate Coaching
+#### 1:1 Business Coaching
 
 Sometimes a professional is faced with circumstances that require them to re-examine who they are, what they are doing, and why. Maybe there is something going on at home that makes it difficult for them to focus. Maybe they have been presented with a new boss or manager with whom they don't get along. Or maybe their communication style is negatively affecting those around them. These issues can be tricky to navigate at work, where there is limited opportunity for self-reflection. Without the right support, an employee can become more and more discouraged and disengaged. With 1:1 coaching, employees build the skills and the capacity they need to be productive, effective, and joyful.
 

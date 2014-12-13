@@ -1,7 +1,7 @@
 title: Jessie Curtner
 keywords: "life coach, life coaching, corporate coaching, individual coaching, personal coach, personal coaching, executive coach, executive coaching"
 baseurl: http://www.jessiecurtner.com
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:title
 
 owner: 
   name: Jessie Curtner  
@@ -16,9 +16,11 @@ navigation:
     url: /
   - title: About
     url: /about/
-  - title: Individual Coaching
-    url: /individual-coaching/
-  - title: Corporate Coaching
-    url: /corporate-coaching/
+  - title: Private Coaching
+    url: /private-coaching/
+  - title: Business Coaching
+    url: /business-coaching/
   - title: Contact
     url: /contact/
+  - title: Blog
+    url: /blog/

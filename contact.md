@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Contact
+layout: page
+title: Contact Jessie
 permalink: /contact/
 ---
-
-# Contact Jessie
 
 <blockquote>m: <a href="tel:415.385.0825">415.385.0825</a>
 <br>
