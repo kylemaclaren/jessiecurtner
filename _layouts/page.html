@@ -11,11 +11,13 @@
       </div>
     {% elsif page.title == 'Blog' %}
       <div class="col-md-12">
+        <h1>{{ page.title }}</h1>
+        {{ content }}
         {% for post in site.posts limit: 25 %}
         <div class="blog-article">
-          <h1>{{ post.title }}</h1>
           <a href="{{ post.url }}"><img class="blog-thumb" src="{{ post.image }}" /></a>
-          {{ post.content | truncatewords: 90 }} [<a href="{{ post.url }}">more</a>]
+          <h4>{{ post.title }}</h4>
+          {{ post.content | truncatewords: 75 }} [<a href="{{ post.url }}">read more</a>]
         </div>
         {% endfor %}
       </div>
