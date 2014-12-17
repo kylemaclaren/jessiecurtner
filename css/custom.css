@@ -17,6 +17,7 @@ h1, .h1, h2, .h2, h4, .h4 {
 }
 h2, .h2 {
   font-size:24px;
+  margin-top: 10px;
 }
 h3, .h3 {
   font-style: italic;
@@ -25,7 +26,7 @@ h3, .h3 {
   margin-top:10px;
   margin-bottom: 25px;
 }
-h4, .h4 {
+h4, .h4, h5, .h5 {
   margin-top:20px;
 }
 p, blockquote, ul, ol {
@@ -36,26 +37,41 @@ blockquote {
   font-size: 14px;
   border-color: #339999;
 }
+hr {
+  border-color: #999999;
+}
+.blue-border {
+  padding: 10px 20px;
+  margin: 20px 0px;
+  font-size: 14px;
+  border-left: 5px solid #339999;
+}
 .bold {
   font-weight: bold;
 }
 .logo {
-  margin:25px 0;
+  margin: 25px 0px;
   text-align: center;
+}
+.logo-image {
+  width: 250px;
+  height: 125px;
 }
 .col-md-12 {
   margin-bottom:100px;
 }
 .profile-pic {
   float: left;
-  margin-right: 25px;
-  margin-bottom: 20px;
-  padding-left:10px;
+  margin: 0px 25px 20px 0px;
+  padding:20px;
   border-left: 5px solid #339999;
   width: 200px;
 }
 .blog-article {
   min-height: 175px;
+}
+.blog-article h4, .profile h4 {
+  padding-top: 20px;
 }
 .blog-title, .blog-title:hover {
   color:#000;
@@ -67,12 +83,11 @@ blockquote {
 }
 .blog-thumb {
   float: left;
-  margin-right: 25px;
-  margin-bottom: 20px;
-  padding-left: 10px;
+  margin: 0px 25px 20px 0px;
+  padding: 20px;
   border-left: 5px solid #339999;
-  width: 250px;
-  height: 150px;
+  width: 275px;
+  height: 175px;
 }
 #disqus_thread {
   margin-top:50px;

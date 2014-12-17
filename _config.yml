@@ -16,10 +16,10 @@ navigation:
     url: /
   - title: About
     url: /about/
-  - title: Private Coaching
-    url: /private-coaching/
-  - title: Business Coaching
-    url: /business-coaching/
+  - title: Individuals and Groups
+    url: /individuals/
+  - title: Companies
+    url: /companies/
   - title: Contact
     url: /contact/
   - title: Blog
