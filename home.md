@@ -20,7 +20,7 @@ Whether you're an [individual](/individuals) looking for support in navigating p
 
 "Before coming to Jessie, I felt anxious and unsure about what I wanted in my life. I've been seeing Jessie for almost a year now, and I have much more clarity and understanding of who I am. This has led to greater confidence and success in both my professional and personal life. I cannot recommend Jessie highly enough as a coach."
 
-##### Caroline Casseli, San Francisco CA
+##### Caroline Caselli, San Francisco CA
 
 "Since coaching, I've started to integrate more relaxation into my full life - little moments of mindfulness and meditation interspersed throughout the day. Overall I've felt much more focused and calm in the quest to achieve my goals. My work, friendships, and health have all been positively impacted by Jessie's reflective, inspirational, and encouraging presence."
 
