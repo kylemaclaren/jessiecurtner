@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Individual and Group Coaching
-permalink: /individuals/
+permalink: /coaching/
 ---
 
 ### A coaching relationship serves as the foundation for change.
@@ -12,7 +12,7 @@ Sooner or later life presents us with events or circumstances that require us to
 
 #### Small Group Coaching
 
-Showing up authentically in a group is challenging. Many of us feel the need to impress, be liked, or perhaps shy away from the spotlight. Group coaching is a wonderful way to explore your own unique self expression in a safe environment of self exploration. As the facilitator, I'll provide short meditations, journaling prompts, and creative exercises to help the group discover deeper parts of themselves and each other. Being really seen for who you are in a group setting is a powerful and healing experience. 
+Showing up authentically in a group is challenging. Many of us feel the need to impress, be liked, or perhaps shy away from the spotlight. Group coaching is a wonderful way to explore your own unique self expression in a safe environment of self exploration. As the facilitator, I'll provide short meditations, journaling prompts, and creative exercises to help the group discover deeper parts of themselves and each other. Being really seen for who you are in a group setting is a powerful and healing experience.
 
 <div class="blue-border" markdown="1">
 

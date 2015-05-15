@@ -147,12 +147,15 @@ hr {
   .container {
     width: 800px;
   }
+  .navbar-nav {
+    margin-left: 160px;
+  }
 }
 @media (min-width: 992px) {
   .container {
     width: 970px;
   }
   .navbar-nav {
-    margin-left: 80px;
+    margin-left: 240px;
   }
 }

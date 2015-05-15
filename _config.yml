@@ -3,8 +3,8 @@ keywords: "life coach, life coaching, corporate coaching, individual coaching, p
 baseurl: http://www.jessiecurtner.com
 permalink: /blog/:title
 
-owner: 
-  name: Jessie Curtner  
+owner:
+  name: Jessie Curtner
   email: jcurtner@gmail.com
   phone: 415.385.0825
   skype: jessiecurtner
@@ -14,10 +14,8 @@ navigation:
     url: /
   - title: About
     url: /about/
-  - title: Individuals and Groups
-    url: /individuals/
-  - title: Companies
-    url: /companies/
+  - title: Coaching
+    url: /coaching/
   - title: Contact
     url: /contact/
   - title: Blog
