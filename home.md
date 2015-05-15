@@ -4,13 +4,34 @@ title: Mind Body Soul Coaching
 permalink: /
 ---
 
-### Getting stuck forces us to find creative solutions for getting unstuck.
+### Life Coaching for women who dream of living a more meaningful life
 
-#### What is Coaching?
+#### I help women find themselves in a world of expectaions
 
-The truth is that we all get stuck, lost, disengaged, and even depressed from time to time. It's part of life. And believe it or not, it's a great part of life because it forces us to rethink the way we've been doing things. When we become more aware of our current habits, it is easier to adopt new habits. Integral coaching offers support and guidance when you've decided that it's time to set out on a new path, but you're not sure how to take the first few steps. 
+As women we receive many contradictory messages. In our profession we’re suppose to be in control but laid back, in our love lives passionate but independent, in our appearance beautiful but effortless. 
 
-Whether you're an [individual](/individuals) looking for support in navigating personal issues, or a [company](/companies) looking for programs that will make your office come alive, my coaching programs can help. My programs are tailored to each person, or group, in order to create change that is lasting and meaningful. 
+The message of “you need to be everything to everyone, or you’ll disappoint someone,” leaves many of us feeling like failures. We’re trapped inside the construct of an ideal that doesn’t exist in reality. 
+
+I lived in that box of disproval for years, but I came out the other side and you can too. It really is possible to break free of the limitations of external expectations to feel completely comfortable in your own skin. And it starts right where you are, without changing a thing about yourself or your situation. The path to liberation starts when you can honestly say "I'm enough. This is enough." 
+
+Now if you’re like I was, you're thinking - "just being ok with myself, isn’t enough for me. I really want to change things about my life. I want a job I love, a boyfriend/girlfriend I love, or at least a view in the mirror I love" - I feel you! 
+  
+Wanting a life you love is a great thing, but it really does start with self love. And I’m not talking about loving your ideal-self in the future, but loving the one that’s here in this moment. She needs your love. 
+
+In my coaching practice I help women in their 20’s and 30’s fully embrace their perfectly imperfect selves. From this place of “enoughness” these women have the confidence and integrity it takes to create a life of depth, meaning and satisfaction.  
+
+Through group and 1:1 work I help women find what is innately theirs. The unique attributes and capacities that aren’t for someone else’s judgement or approval. It’s the part in them that feels free to dance with abandon, play like a child, create art from experience, and live fully present to the richness of being alive.
+
+Because as we come into our womanhood, a cliched reality begins to set in - life really is short! And as far as we know, this life is our only opportunity to be ourselves. 
+
+I help my clients take the first step towards waking up to their precious lives. We work together to find what it is they really care about, we envision the life they want to lead, and we bring to life the person they actually are. 
+
+From this deep knowing, we work together to craft practices, rituals, and support systems that set a foundation for personal discovery, spiritual awakening and personal expression. 
+
+I invite you to step into the unknown with me. Discover the strength, uniqueness and frededom that you’ve always sensed was there, but never knew how to access. 
+
+ “*There are a hundred paths through the world that are easier than loving. But, who wants easier*?” - Mary Oliver
+
 
 <div class="blue-border" markdown="1">
 
